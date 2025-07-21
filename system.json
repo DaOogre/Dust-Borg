@@ -14,8 +14,8 @@
     }
   ],
   "license": "LICENSE.MB3PL",
-  "esmodules": ["module/dustborg.js"],
-  "styles": ["css/editor.css", "css/dustborg.css"],
+  "esmodules": ["module/pirateborg.js"],
+  "styles": ["css/editor.css", "css/pirateborg.css"],
   "packs": [
     {
       "name": "containers",

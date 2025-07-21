@@ -1,3 +1,10 @@
+Planning to Use this as a general format for my own version of Mork Borg for a Wild West game.
+Lore/Concept: Long ago, humanity had to travel to a new planet in order to colonize. The reason or explaination has long been lost as instead of landing in a habitable planet, the colony ships crashed onto a desert planet where food and water is both scarce.
+But humanity strives in chaos, and from the wrecks of their ancestors plans, cities were build from lost technology that only the few truly understand. These cities where normal people just try to live their daily lives and dream of a nice retirement some day
+even on a world that was deamed inhabitable. 
+Influences: Tri-gun, Cowboy Bebop, Desert Punk, Dune, many many others.
+
+
 # PIRATE BORG for Foundry VTT
 
 An official, community-supported system for playing [PIRATE BORG](https://www.limithron.com/pirateborg) on [Foundry VTT](http://foundryvtt.com/).

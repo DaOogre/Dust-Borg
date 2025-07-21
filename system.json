@@ -1,7 +1,7 @@
 {
-  "id": "duskborg",
-  "title": "DUSK BORG",
-  "description": "Foundry VTT system for DUSK BORG.",
+  "id": "dustborg",
+  "title": "Dust Borg",
+  "description": "Foundry VTT system for Dust Borg TTRPG.",
   "version": "v0.1",
   "compatibility": {
     "minimum": "12",
@@ -14,8 +14,8 @@
     }
   ],
   "license": "LICENSE.MB3PL",
-  "esmodules": ["module/pirateborg.js"],
-  "styles": ["css/editor.css", "css/pirateborg.css"],
+  "esmodules": ["module/dustborg.js"],
+  "styles": ["css/editor.css", "css/dustborg.css"],
   "packs": [
     {
       "name": "containers",
@@ -423,7 +423,7 @@
   ],
   "packFolders": [
     {
-      "name": "Pirate Borg System",
+      "name": "Dusk Borg System",
       "sorting": "a",
       "packs": [
         "macros-pirateborg",
@@ -546,9 +546,9 @@
   },
   "primaryTokenAttribute": "attributes.hp",
   "secondaryTokenAttribute": null,
-  "background": "systems/pirateborg/ui/pirate-borg.png",
-  "url": "https://github.com/Limithron-Foundry-VTT/pirate-borg-system",
-  "manifest": "https://github.com/Limithron-Foundry-VTT/pirate-borg-system/releases/latest/download/system.json",
-  "download": "https://github.com/Limithron-Foundry-VTT/pirate-borg-system/releases/latest/download/system.zip",
-  "changelog": "https://raw.githubusercontent.com/Limithron-Foundry-VTT/pirate-borg-system/main/CHANGELOG.md"
+  "background": "systems/dustborg/ui/dust-borg.png",
+  "url": "https://github.com/DaOogre/Dust-Borg",
+  "manifest": "https://github.com/DaOogre/Dust-Borg/releases/latest/download/system.json",
+  "download": "https://github.com/DaOogre/Dust-Borg/releases/latest/download/system.zip",
+  "changelog": "https://raw.githubusercontent.com/DaOogre/Dust-Borg/main/CHANGELOG.md"
 }

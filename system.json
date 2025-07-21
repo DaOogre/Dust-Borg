@@ -546,7 +546,7 @@
   },
   "primaryTokenAttribute": "attributes.hp",
   "secondaryTokenAttribute": null,
-  "background": "systems/dustborg/ui/dust-borg.png",
+  "background": "systems/dustborg/ui/pirate-borg.png",
   "url": "https://github.com/DaOogre/Dust-Borg",
   "manifest": "https://github.com/DaOogre/Dust-Borg/releases/latest/download/system.json",
   "download": "https://github.com/DaOogre/Dust-Borg/releases/latest/download/system.zip",

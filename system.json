@@ -1,16 +1,16 @@
 {
-  "id": "pirateborg",
-  "title": "PIRATE BORG",
-  "description": "Foundry VTT system for PIRATE BORG.",
-  "version": "v1.1.3",
+  "id": "duskborg",
+  "title": "DUSK BORG",
+  "description": "Foundry VTT system for DUSK BORG.",
+  "version": "v0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "13"
   },
   "authors": [
     {
-      "name": "Limithron",
-      "url": "https://www.limithron.com/"
+      "name": "Oogre",
+      "url": "https://www.twitch.com/"
     }
   ],
   "license": "LICENSE.MB3PL",
